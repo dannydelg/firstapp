@@ -1,7 +1,7 @@
 
 function verificar_nombre(){
   if($('#nombre').val() == ""){
-    console.log("Debe Agregar el nombre");
+    console.log("Debe Agregar el nombre de usuario");
   }
 }
 console.log("Slow machine");
