@@ -4,4 +4,4 @@ function verificar_nombre(){
     console.log("Debe Agregar el nombre");
   }
 }
-console.log("Slow machine")
+console.log("Slow machine");
